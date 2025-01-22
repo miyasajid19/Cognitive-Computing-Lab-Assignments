@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Age,Salary,Years of Experience,Joining Date,Gender,Bonus,Ratings
+101,Amanpreet,Sales,28,600000,5,15-03-2019,Female,50000,4.2
+102,Vikramjeet,Marketing,31,750000,7,22-07-2016,Male,70000,4.5
+103,Simran Kaur,HR,26,520000,3,10/1/2022,Female,40000,4
+104,Rajinder Singh,IT,35,900000,10,11/6/2014,Male,90000,4.8
+105,Navneet,Finance,30,680000,6,23-09-2017,Female,60000,4.3
+106,Gagandeep,Operations,32,780000,8,12/4/2015,Male,75000,4.4
+107,Manpreet,Marketing,29,710000,5,17-11-2019,Female,65000,4.1
+108,Harpreet J.,IT,27,580000,4,8/2/2021,Male,55000,3.9
+109,Daljeet,HR,33,800000,9,14-10-2015,Female,85000,4.6
+110,Prabhjot S.,Sales,25,650000,2,25-01-2023,Male,45000,4
